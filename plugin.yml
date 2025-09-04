@@ -1,0 +1,8 @@
+name: MajithiyanAbilities
+version: 1.0
+main: com.prop.abilities.Main
+api-version: 1.19
+commands:
+  ability:
+    description: Use Majithiyan 9KK ability
+    usage: /ability
